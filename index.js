@@ -1,4 +1,4 @@
-let engineIndicatorLight = 'wewe blinking';
+let engineIndicatorLight = 'red blinking';
 let fuelLevel = 5000;
 let engineTemperature = 1200;
 let commandOverride = true;
